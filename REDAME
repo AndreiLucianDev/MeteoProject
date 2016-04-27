@@ -1,0 +1,4 @@
+The MeteoProject app uses the free OpenWeatherMap.org REST web services
+to obtain a specified city’s 16-day weather forecast. The app receives the weather data in
+JSON data format. The list of weather data is displayed in a
+ListView a view that displays a scrollable list of items.
