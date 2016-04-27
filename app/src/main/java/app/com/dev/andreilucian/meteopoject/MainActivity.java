@@ -4,6 +4,7 @@ package app.com.dev.andreilucian.meteopoject;
  * *VIEW*
  *
  * this class displays a 16-dayOfWeek weather forecast for the specified city
+ *
  * */
 
 import android.annotation.TargetApi;
